@@ -27,7 +27,46 @@
 
 NeuroTrack is a Convolutional AI (CNN) model responsible for classifying magnetic resonance images of human brains and identifying the degree of Alzheimer's disease present or not in them. It is designed to help doctors make more accurate and early diagnoses, in order to improve the quality of life of patients. It classifies images into four different classes, namely: **`No Impairment`**, **`Moderate Impairment`**, **`Mild Impairment`**, **`Very Mild Impairment`** and applies a regression algorithm to quantify the percentage of diagnostic reliability, in order to use this new emerging technology to help humanity and make people's lives better, building a technological and conscious society.
 
-Its first version was made in Python, using Keras, TensorFlow, PyTorch. Now, revamped, it is made 100% in C..
+Its first version was made in Python, using Keras, TensorFlow, PyTorch. Now, revamped, it is made 100% in C.
+
+---
+
+# - Repository tree
+
+```python
+WIP
+```
+
+---
+
+# - Tech Stack and Environment Settings
+
+| **Category**               | **Technologies and Tools**                                                                                                                                                                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming Languages**  | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)                                                                                                                                                                |
+| **Build System**           | ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)                                                                                                                                                      |
+| **Version Control**        | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)                                            |
+| **Documentation**          | ![Doxygen](https://img.shields.io/badge/doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)                                       |
+| **Support Tools**          | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)                                                                                                                                                    |
+| **Operating System**       | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)                                                                                                                                                           |
+| **IDE**                    | ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)                                                                                                                                                     |
+
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
+
+---
+
+# - Build and Use
+
+### 1. Cloning the Repository
+
+### 2. Building with CMake
+
+### 3. Building with Docker
+
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
+
+
+---
 
 # - A Journey of Effort, Recognition and Motivation...
 
@@ -65,6 +104,13 @@ Further highlighting the impact of my work, I was awarded the Medal of Excellenc
 
 Above all, this project serves as tangible evidence that dedication and persistent effort can lead to extraordinary accomplishments. If my journey has proven anything, it is that anyone, with enough determination, can achieve remarkable outcomes. This includes you!
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+# - References
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [stars-shield]: https://img.shields.io/github/stars/RafaelVVolkmer/NeuroTrack.svg?style=flat-square
 [stars-url]: https://github.com/RafaelVVolkmer/NeuroTrack/stargazers
