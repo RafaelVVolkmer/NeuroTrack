@@ -25,13 +25,13 @@
 
 # - Project Description
 
-NeuroTrack is a Convolutional AI (CNN) model responsible for classifying magnetic resonance images of human brains and identifying the degree of Alzheimer's disease present or not in them. It is designed to help doctors make more accurate and early diagnoses, in order to improve the quality of life of patients. It classifies images into four different classes, namely: No Impairment, Moderate Impairment, Mild Impairment, Very Mild Impairment and applies a regression algorithm to quantify the percentage of diagnostic reliability, in order to use this new emerging technology to help humanity and make people's lives better, building a technological and conscious society.
+NeuroTrack is a Convolutional AI (CNN) model responsible for classifying magnetic resonance images of human brains and identifying the degree of Alzheimer's disease present or not in them. It is designed to help doctors make more accurate and early diagnoses, in order to improve the quality of life of patients. It classifies images into four different classes, namely: **`No Impairment`**, **`Moderate Impairment`**, **`Mild Impairment`**, **`Very Mild Impairment`** and applies a regression algorithm to quantify the percentage of diagnostic reliability, in order to use this new emerging technology to help humanity and make people's lives better, building a technological and conscious society.
 
-Its first version was made in Python, using Keras, TensorFlow, PyTorch and NumPy. Now, revamped, it is made 100% in C..
+Its first version was made in Python, using Keras, TensorFlow, PyTorch. Now, revamped, it is made 100% in C..
 
 # - A Journey of Effort, Recognition and Motivation
 
-This project originated from my final assignment for the Electronics Technical Course at the Liberato Salzano Vieira da Cunha Technical School Foundation. Titled "Artificial Intelligence in the Diagnosis of Alzheimer's Disease," the initiative garnered significant recognition, securing first place in the Computer Science category at MOSTRATEC, the largest science fair in Latin America.
+This project originated from my final assignment for the Electronics Technical Course at the [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br/publicacoes/). Titled [Artificial Intelligence in the Diagnosis of Alzheimer's Disease](https://virtualmostratec.liberato.com.br/projeto/inteligencia-artificial-no-diagnostico-do-mal-de-alzheimer/), the initiative garnered significant recognition, securing first place in the Computer Science category at [MOSTRATEC - Mostra Internacional de Ciência e Tecnologia](https://mostratec.liberato.com.br), the largest science fair in Latin America.
 
 ---
 
@@ -51,7 +51,7 @@ The accolades from this achievement opened doors to numerous prestigious opportu
 
 ---
 
-In addition to international exposure, my project earned me the esteemed Young Scientist Award from the Legislative Assembly of Rio Grande do Sul, Brazil, recognizing me as an outstanding young researcher at the national level. This honor included an invitation to the annual meeting of the Brazilian Society for the Advancement of Science (SBPC), held in Bahia.
+In addition to international exposure, my project earned me the esteemed Young Scientist Award from the Legislative Assembly of Rio Grande do Sul, Brazil, recognizing me as an outstanding young researcher at the national level. This honor included an invitation to the annual meeting of the [SBPC - Sociedade Brasileira de Sociedade Brasileira para o Progresso da Ciênci](https://portal.sbpcnet.org.br), held in Bahia.
 
 ---
 
@@ -61,7 +61,7 @@ In addition to international exposure, my project earned me the esteemed Young S
 
 ---
 
-Further highlighting the impact of my work, I was awarded the Medal of Excellence in Research by the Brazilian Association for Incentive to Science (ABRIC) and received an official letter of commendation from the City Council of Novo Hamburgo, Rio Grande do Sul. My research was also featured in a prestigious academic journal rated A1, where I detailed the technical methodologies and advancements of the project. Additionally, representing my electronics course, I contributed an article to Liberato Científica, a journal with a B2 rating, where I shared my personal journey as a student and researcher, aiming to inspire others pursuing similar ambitions.
+Further highlighting the impact of my work, I was awarded the Medal of Excellence in Research by the Brazilian Association for Incentive to Science [ABRIC - Associação Brasileira de Incentivo à Ciência](https://abric.ong.br) and received an official letter of commendation from the City [Council of Novo Hamburgo](https://portal.camaranh.rs.gov.br/pm3), Rio Grande do Sul. My research was also featured in a prestigious academic journal rated A1, where I detailed the technical methodologies and advancements of the project. Additionally, representing my electronics course, I contributed an article to [Liberato Científica](https://www.liberato.com.br/wp-content/uploads/2024/11/Liberato-Científica-v10-n10-out.-2024.pdf), a journal with a B2 rating, where I shared my personal journey as a student and researcher, aiming to inspire others pursuing similar ambitions.
 
 Above all, this project serves as tangible evidence that dedication and persistent effort can lead to extraordinary accomplishments. If my journey has proven anything, it is that anyone, with enough determination, can achieve remarkable outcomes. This includes you!
 
