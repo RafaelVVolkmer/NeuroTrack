@@ -65,7 +65,6 @@ Further highlighting the impact of my work, I was awarded the Medal of Excellenc
 
 Above all, this project serves as tangible evidence that dedication and persistent effort can lead to extraordinary accomplishments. If my journey has proven anything, it is that anyone, with enough determination, can achieve remarkable outcomes. This includes you!
 
-Fundação Escola Ténica Liberato Salzano Vieira da Cunha
 
 [stars-shield]: https://img.shields.io/github/stars/RafaelVVolkmer/NeuroTrack.svg?style=flat-square
 [stars-url]: https://github.com/RafaelVVolkmer/NeuroTrack/stargazers
