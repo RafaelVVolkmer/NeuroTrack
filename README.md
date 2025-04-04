@@ -29,7 +29,7 @@ NeuroTrack is a Convolutional AI (CNN) model responsible for classifying magneti
 
 Its first version was made in Python, using Keras, TensorFlow, PyTorch. Now, revamped, it is made 100% in C..
 
-# - A Journey of Effort, Recognition and Motivation
+# - A Journey of Effort, Recognition and Motivation...
 
 This project originated from my final assignment for the Electronics Technical Course at the [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br/publicacoes/). Titled [Artificial Intelligence in the Diagnosis of Alzheimer's Disease](https://virtualmostratec.liberato.com.br/projeto/inteligencia-artificial-no-diagnostico-do-mal-de-alzheimer/), the initiative garnered significant recognition, securing first place in the Computer Science category at [MOSTRATEC - Mostra Internacional de Ciência e Tecnologia](https://mostratec.liberato.com.br), the largest science fair in Latin America.
 
