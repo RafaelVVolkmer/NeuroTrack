@@ -33,9 +33,33 @@ Its first version was made in Python, using Keras, TensorFlow, PyTorch and NumPy
 
 This project originated from my final assignment for the Electronics Technical Course at the Liberato Salzano Vieira da Cunha Technical School Foundation. Titled "Artificial Intelligence in the Diagnosis of Alzheimer's Disease," the initiative garnered significant recognition, securing first place in the Computer Science category at MOSTRATEC, the largest science fair in Latin America.
 
+---
+
+<p align="center">
+  <img src="readme_images/Swiss_Award.svg" alt="Swiss Award"/>
+</p>
+
+---
+
 The accolades from this achievement opened doors to numerous prestigious opportunities, most notably participation in the International Swiss Talent Forum (ISTF) in 2024. At ISTF, I had the enriching experience of collaborating with young innovators from diverse cultural backgrounds, collectively devising solutions aimed at enhancing our future society.
 
+---
+
+<p align="center">
+  <img src="readme_images/Swiss_Forum.svg" alt="Swiss Award"/>
+</p>
+
+---
+
 In addition to international exposure, my project earned me the esteemed Young Scientist Award from the Legislative Assembly of Rio Grande do Sul, Brazil, recognizing me as an outstanding young researcher at the national level. This honor included an invitation to the annual meeting of the Brazilian Society for the Advancement of Science (SBPC), held in Bahia.
+
+---
+
+<p align="center">
+  <img src="readme_images/Young_Scientist_Award.svg" alt="Swiss Award"/>
+</p>
+
+---
 
 Further highlighting the impact of my work, I was awarded the Medal of Excellence in Research by the Brazilian Association for Incentive to Science (ABRIC) and received an official letter of commendation from the City Council of Novo Hamburgo, Rio Grande do Sul. My research was also featured in a prestigious academic journal rated A1, where I detailed the technical methodologies and advancements of the project. Additionally, representing my electronics course, I contributed an article to Liberato Científica, a journal with a B2 rating, where I shared my personal journey as a student and researcher, aiming to inspire others pursuing similar ambitions.
 
